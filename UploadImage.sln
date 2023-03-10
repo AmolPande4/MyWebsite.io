@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UploadImage", "UploadImage.csproj", "{1E64E6C1-B1B5-4FD8-9B80-8B4942ACA0DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E64E6C1-B1B5-4FD8-9B80-8B4942ACA0DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E64E6C1-B1B5-4FD8-9B80-8B4942ACA0DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E64E6C1-B1B5-4FD8-9B80-8B4942ACA0DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E64E6C1-B1B5-4FD8-9B80-8B4942ACA0DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDEA4D0D-596A-4190-B8E3-C6A454292D13}
+	EndGlobalSection
+EndGlobal
